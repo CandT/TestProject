@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1398956902 source:/home/moose/Shared/Programming/Current Projects/TestProject/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glx.h>
+	<GL/gl.h>
+	<X11/X.h>
+	<X11/keysym.h>
+
+1398957829 source:/home/moose/Shared/Programming/Current Projects/TestProject/src/Vector.cpp
+	"Vector.h"
+
+1398957826 /home/moose/Shared/Programming/Current Projects/TestProject/header/Vector.h
+
